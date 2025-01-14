@@ -41,9 +41,9 @@ Correct specification is critical to avoid omitted variables, multicollinearity,
 ## 5. Statistical Foundation: Population, Parameters, and Randomness  
 The Model:  
 The simple linear regression model is represented as:  
-\[
+$
 E(Y | X) = \mu_{Y | X} = \beta_1 + \beta_2 X
-\]  
+$  
 Here:  
 - \( E(Y | X) \): The expected value of \( Y \) given \( X \).  
 - \( \beta_1 \): The intercept.  
